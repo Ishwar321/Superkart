@@ -344,7 +344,7 @@ auth.token.accessExpirationInMils=120000
 auth.token.refreshExpirationInMils=300000
 
 # Stripe Configuration
-stripe.secret.key=sk_test_51RprBNCOZJUXNopayvPDTTqFRSsHnvVMEMrb5p12jijeZe3wgoL6NyPvOeUkM8VdoHlCAzmkuewnGDTECJ0ppNn500S9PRdqyG
+stripe.secret.key=your_stripe_secret_key_here
 ```
 
 ### 2. DEPENDENCY INJECTION & IOC
